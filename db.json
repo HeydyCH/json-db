@@ -1,0 +1,24 @@
+{
+  "cursos":[
+    {
+      "id":1,
+      "title":"React desde cero",
+      "image":"https://edteam-media.s3.amazonaws.com/courses/original/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
+      "price": 30,
+      "professor": "profesor React"
+    },
+    {
+      "id":2,
+      "title":"Go desde cero",
+      "price": 40,
+      "professor": "profesor Go"
+    },
+    {
+      "id":3,
+      "title":"Html desde cero",
+      "image":"https://edteam-media.s3.amazonaws.com/courses/original/4c21cab6-2482-4a0d-8364-d3852a854fe3.png",
+      "price": 50,
+      "professor": "profesor Html"
+    }
+  ]
+}
