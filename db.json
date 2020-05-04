@@ -20,5 +20,25 @@
       "price": 50,
       "professor": "profesor Html"
     }
+  ],
+  "interviews":[
+    {
+      "title": "Sara Paredes: “La Pacientita N°4 fue una terapia para curarme”.",
+      "image": "https://saludconlupa.com/media/images/Peru_entrevista_Sara_interna_2_313.2e16d0ba.fill-650x450.jpg",
+      "text":  "La actriz y arquitecta Sara Paredes tuvo dos hijos por cesárea atendidas con violencia en dos hospitales de Perú. Ella encontró en el teatro una forma de procesar su dolor y de ayudar a otras mujeres a contar experiencias similares.",
+      "autor": "Mayté Ciriaco"
+    },
+    {
+      "title": "Raquel Hurtado: “Parir de cuclillas es mejor para todas y para la economía del país”.",
+      "image": "https://saludconlupa.com/media/images/Peru_entrevista_Hurtado_portada_TZ.2e16d0ba.fill-650x450.jpg",
+      "text":  "La médico e investigadora Raquel Hurtado afirma que los hospitales y clínicas desincentivan la posición vertical o de cuclillas para dar a luz pese a que es más beneficiosa para todas y para la economía de un país.",
+      "autor": "Fabiola Torres"
+    },
+    {
+      "title": "Antonio Lévano: “El monitor fetal aumentó el número de cesáreas”.",
+      "image": "https://saludconlupa.com/media/images/Peru_entrevista_doctor_portada_BN.2e16d0ba.fill-650x450.jpg",
+      "text": "El médico Antonio Levano, defensor del parto natural en el Perú, explica cómo ha evolucionado la atención de los nacimientos y las resistencias que deben vencerse para devolverles a las mujeres el protagonismo de ese momento.",
+      "autor": "Mayté Ciriaco y Fabiola Torres"
+    }  
   ]
 }
