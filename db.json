@@ -49,5 +49,70 @@
       "published_at": "2020-05-05 09:18:30",
       "redirection_url":"https://saludconlupa.com/entrevistas/antonio-levano-monitor-fetal-aument-nmero-cesareas/"
     }  
+  ],
+  "questions":[
+    {
+      "id":1,
+      "title": "Son mas eficientes las mamografias 3D",
+      "text":  "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto",
+      "autor": "Mayté Ciriaco",
+      "published_at": "2020-04-05 08:11:04",
+      "state": "Pendiente",
+      "data":{
+        "contributions_count": 2,
+        "contributions":[
+          {
+            "id":1,
+            "text":"texto1"
+          },
+          {
+            "id":2,
+            "text":"texto2"
+          }
+        ]
+      }
+    },
+    {
+      "id":2,
+      "title": "title questiosn 2",
+      "text":  "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto",
+      "autor": "Mayté Ciriaco",
+      "published_at": "2020-04-05 08:11:04",
+      "state": "Pendiente",
+      "data":{
+        "contributions_count": 1,
+        "contributions":[
+          {
+            "id":3,
+            "text":"texto3"
+          }
+        ]
+      }
+    },
+    {
+      "id":3,
+      "title": "title questiosn 3",
+      "text":  "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto",
+      "autor": "Mayté Ciriaco",
+      "published_at": "2020-04-05 08:11:04",
+      "state": "Pendiente",
+      "data":{
+        "contributions_count": 3,
+        "contributions":[
+          {
+            "id":4,
+            "text":"texto4"
+          },
+          {
+            "id":5,
+            "text":"texto5"
+          },
+          {
+            "id":6,
+            "text":"texto6"
+          }
+        ]
+      }
+    }  
   ]
 }
